@@ -1,0 +1,8 @@
+2025-11-06 11:11:02,736 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-11-06 18:09:56,243 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.1.0; built: 2025-08-15T04:53:41.572Z; git: c8372b65bd15404de1444d68902c0455a3a69b64; jvm 21.0.8+9-LTS
+2025-11-06 18:09:56,358 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@40d91b8{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@368a5c1b{STARTED}}
+2025-11-06 18:09:56,359 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-11-06 18:09:56,381 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started oejs.ServerConnector@307f1942{HTTP/1.1, (http/1.1)}{127.0.0.1:64510}
+2025-11-06 18:09:56,387 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6c56115f{STARTING}[12.1.0,sto=0] @25205216ms
+2025-11-06 18:46:50,216 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@6c56115f{STOPPING}[12.1.0,sto=0]
+2025-11-06 18:46:50,222 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped oejs.ServerConnector@307f1942{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
